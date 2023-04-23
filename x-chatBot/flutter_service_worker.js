@@ -4,9 +4,10 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "63d7d201bea98a220b4416b83f72bcfd",
-"index.html": "1dfe2164a55b9673df988271b6de4fe5",
-"/": "1dfe2164a55b9673df988271b6de4fe5",
-"main.dart.js": "295acf497e5defc869451b137ac69674",
+"index.html": "9034bdc4da60da1c9d4459d9d4f11218",
+"/": "9034bdc4da60da1c9d4459d9d4f11218",
+"main.dart.js": "87679e5f3647f557908f42d4e91efd33",
+"flutter.js": "a85fcf6324d3c4d3ae3be1ae4931e9c5",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
@@ -20,7 +21,11 @@ const RESOURCES = {
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
 "assets/assets/images/icons/light/information_littlechoose_s.png": "8d69bfbd213f7abbdda0b6a8f8aa45a6",
 "assets/assets/images/icons/light/information_littlechoose_n.png": "943f4b70e2600df20a7cfe6c80f4570d",
-"assets/assets/images/icons/light/loadingLogo.png": "75b9508ae52b9adb383fad9eabb4cf07"
+"assets/assets/images/icons/light/loadingLogo.png": "75b9508ae52b9adb383fad9eabb4cf07",
+"canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
+"canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
+"canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
+"canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e"
 };
 
 // The application shell files that are downloaded before a service worker can
